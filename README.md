@@ -1,2 +1,2 @@
-# raspberrydev
+# raspdev
 Programs and experiments with Rasp
